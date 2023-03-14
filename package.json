@@ -1,5 +1,4 @@
 {
-  "repository": "https://github.com/vercel/examples.git",
   "license": "MIT",
   "private": true,
   "scripts": {
@@ -13,6 +12,7 @@
     "@vercel/examples-ui": "^1.0.4",
     "eventsource-parser": "^0.1.0",
     "next": "latest",
+    "next-auth": "^4.20.1",
     "react": "latest",
     "react-cookie": "^4.1.1",
     "react-dom": "latest",
